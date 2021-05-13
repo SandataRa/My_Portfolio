@@ -20,4 +20,4 @@ The project is still on-going, all the visualizations are availables [here](http
   
 This project was built using the following technologies: Python, Pandas, Numpy, Matplotlib, Seaborn  
 
-![](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/Day12/FacetGrid_AttritionAge_per_Department.png)
+![](/images/FacetGrid_AttritionAge_per_Department.png)
