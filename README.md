@@ -1,5 +1,5 @@
 # DataScience_Portfolio
-Data Science Projects realized by Sandratra
+Data Science Projects 
 
 # [Project 1: Comparing World Trends in 1960 and 2013](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/WorldTrends_Homework.py)
 Using the dataset provided by [SuperDataScience](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P4-Section5-Homework-Challenge.pdf), this project presents a comparative analysis of the world's **Life Expectancy** and **Birth Rate** per **Countries Regions** in **1960** and **2013**: 
@@ -8,3 +8,4 @@ Using the dataset provided by [SuperDataScience](https://sds-platform-private.s3
 
 The project was built using the following technologies: Python, Pandas, Seaborn 
 
+![](https://github.com/SandratraR/DataScience_Portfolio/blob/main/images/graphs_1960_2013.png)
