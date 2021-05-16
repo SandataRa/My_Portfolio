@@ -11,8 +11,7 @@ This project was realized during my **#20daysDataScience2021** challenge so you 
 - [Day 14](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/Day14.py)
   
 ## Exploratory Data Analysis  
-The first step is to observe the distribution of attrition accross all the employees and departments to have a general overview.  
-This is why I have started with this facet grid based on the columns Age, Department, Gender and Attrition.  
+The first step is to observe the distribution of attrition accross all the employees and departments to have a general overview. This is why I have started with this facet grid based on the columns **Age**, **Department**, **Gender** and **Attrition**.  
   
 ![Facet_grid_attrition](/images/FacetGrid_AttritionAge_per_Department.png)  
   
@@ -20,15 +19,14 @@ This is why I have started with this facet grid based on the columns Age, Depart
 employees between 25 and 35 years old tends to leave the company. Attrition concerns more men than women with an attrition 
 rate above 15 where its barely break 10 for women.*  
   
-Continuing our analysis let's look at the first possible criterion: Distance from home accross all the job role. We have already identified the Research & Development department,
-therefore by using Job Role we can see in more detail how the attrition is distributed accross the roles.  
+Continuing our analysis let's look at the first possible criterion: **Distance from home** accross all the job role. We have already identified the Research & Development department, therefore by using **Job Role** we can see in more detail how the attrition is distributed accross the roles.  
   
 ![Box_plot_distance_role](/images/Stripplot_Distance_JobRole.png)  
     
 *Attrition (represented by violet dots) seems to concerns mainly Research Scientists, Laboratory Technicians, Sales Executives, and Sales Representatives. Both Distance from home doesn't seem to have an impact on attrition. We have employees living less than 10 km away from the office and employees living
 over 20 km away both leaving the company.*  
   
-This confirms our first observations but **Distance from home** is not a main factor of attrition. Moving on, we will analyze if **Monthly Income** can have an impact on attrition. First, I have calculated the average Monthly Income for each Education Field so that we can assess where each employee stands in comparison to the mean.  
+This confirms our first observations but **Distance from home** is not a main factor of attrition. Moving on, we will analyze if **Monthly Income** can have an impact on attrition. First, I have calculated the **Average Monthly Income** for each **Education Field** so that we can assess where each employee stands in comparison to the mean.  
   
 ![Scatterplot_distance_income](/images/scatterplot_income_education.png)  
   
