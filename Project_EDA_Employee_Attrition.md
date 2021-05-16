@@ -26,8 +26,22 @@ therefore by using Job Role we can see in more detail how the attrition is distr
   
 ![Box_plot_distance_role](/images/Stripplot_Distance_JobRole.png)  
     
-*Attrition (represented by violet dots) seems to concerns mainly Sales Executives, Sales Representative and Laboratory Technician. Both Distance from home 
-doesn't seem to have an impact on attrition. We have employees living less than 10 km away from the office and employees living
+*Attrition (represented by violet dots) seems to concerns mainly Research Scientists, Laboratory Technicians, Sales Executives, and Sales Representatives. Both Distance from home doesn't seem to have an impact on attrition. We have employees living less than 10 km away from the office and employees living
 over 20 km away both leaving the company.*  
   
-
+This confirms our first observations but **Distance from home** is not a main factor of attrition. Moving on, we will analyze if **Monthly Income** can have an impact on attrition. First, I have calculated the average Monthly Income for each Education Field so that we can assess where each employee stands in comparison to the mean.  
+  
+![Scatterplot_distance_income](/images/scatterplot_income_education.png)  
+  
+*Most of the employees who left the company (represented by orange dots) were paid under the average monthly income of their Education Field. So we can 
+suppose that Monthly Income can be a cause of attrition among the employees who have a Life Sciences, Medical, Marketing or 
+Technical Degree.*  
+  
+The employees seem to leave the company for financial motives according to our previous graph. Let's see if the attribution of Promotion confirms that trend among the employees.
+We will also check if employee's number of years at the company is related to promotion's attribution and attrition as well.  
+  
+![kde_promotion_yearsatcompany](/images/promotion_vs_years.png)
+  
+*The promotion doesn't seem to be a reason for attrition because we can observe that the cluster of attrition concerns employees
+who recently received a promotion and joined the company for less than 5 years. We can conclude that recent employees tend 
+to leave but they also represents most employees of this company. The density on both KDE's graphs confirms that observation. This company struggles to keep its newcomers.*
