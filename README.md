@@ -7,14 +7,9 @@ This project was built using the following technologies: Python, Pandas, Seaborn
 
 ![](/images/graphs_1960_2013.png)
 
-# [Project 2: EDA on Employee Attrition & Performance](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/Day12.py)
-Using the dataset [IBM HR Analytics](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset), this project in an Exploratory Data Analysis (EDA) useful to analyze attrition within your company. Such a project aims to identify the reasons pushing top performer employees to leave the company. Here is a subset of the observations we obtained after analysis:   
-* The peak of attrition concerns men between 25-35 years old, working in Research & Development department.
-* Attrition concerns employees spending than 6 years at the company. 
-  
-Find the project's visualizations [here](https://github.com/SandratraR/20Days_DataScience_2021/tree/master/Day12).  
-  
+# [Project 2: EDA on Employee Attrition & Performance](/Project_EDA_Employee_Attrition.md)
+Using the dataset [IBM HR Analytics](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset), this project in an Exploratory Data Analysis (EDA) useful to analyze attrition within your company. Such a project aims to identify the reasons pushing top performer employees to leave the company.
+
 This project was built using the following technologies: Python, Pandas, Numpy, Matplotlib, Seaborn  
 
-![](/images/FacetGrid_AttritionAge_per_Department.png)  
 ![](/images/Stripplot_Distance_JobRole.png)
