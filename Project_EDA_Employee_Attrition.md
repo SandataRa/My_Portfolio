@@ -5,10 +5,7 @@ Using the dataset IBM HR Analytics, this project in an Exploratory Data Analysis
 - Show me a breakdown of distance from home by job role and attrition
 - Compare the average monthly income by education field and attrition
   
-This project was realized during my **#20daysDataScience2021** challenge so you will find the code in the following links:  
-- [Day 12](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/Day12.py)
-- [Day 13](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/Day13.py)
-- [Day 14](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/Day14.py)
+This project was realized during my **#20daysDataScience2021** challenge.  
   
 ## Exploratory Data Analysis  
 The first step is to observe the distribution of attrition accross all the employees and departments to have a general overview. This is why I have started with this facet grid based on the columns **Age**, **Department**, **Gender** and **Attrition**.  
@@ -42,3 +39,7 @@ We will also check if employee's number of years at the company is related to pr
 *The promotion doesn't seem to be a reason for attrition because we can observe that the cluster of attrition concerns employees
 who recently received a promotion and joined the company for less than 5 years. We can conclude that recent employees tend 
 to leave but they also represents most employees of this company. The density on both KDE's graphs confirms that observation. This company struggles to keep its newcomers.*
+  
+Let's now focus on our **Research & Development Department** to analyze the attrition in more details. The following dashboard presents the distributions of attrition among the employees of R&D accross the following features: **PerformanceRating** , **WorkLifeBalance** , **YearsSinceLastPromotion** , **TrainingTimesLastYear** , **YearsWithCurrManager**, and **StockOptionLevel**.
+  
+![Subplot of the attrition in the RD Department](/images/rd_subplot.png)
