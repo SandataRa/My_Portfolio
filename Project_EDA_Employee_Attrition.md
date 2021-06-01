@@ -40,6 +40,6 @@ We will also check if employee's number of years at the company is related to pr
 who recently received a promotion and joined the company for less than 5 years. We can conclude that recent employees tend 
 to leave but they also represents most employees of this company. The density on both KDE's graphs confirms that observation. This company struggles to keep its newcomers.*
   
-Let's now focus on our **Research & Development Department** to analyze the attrition in more details. The following dashboard presents the distributions of attrition among the employees of R&D accross the following features: **PerformanceRating** , **WorkLifeBalance** , **YearsSinceLastPromotion** , **TrainingTimesLastYear** , **YearsWithCurrManager**, and **StockOptionLevel**.
+Let's now focus on our **Research & Development Department** to analyze the attrition in more details. The following dashboard presents the distributions of attrition among the employees of R&D accross the following features: **Performance Rating** , **Work Life Balance** , **Years Since Last Promotion** , **Training Times Last Year** , **Years With Current Manager**, and **Stock Option Level**.
   
 ![Subplot of the attrition in the RD Department](/images/rd_subplot.png)
