@@ -13,3 +13,10 @@ Using the dataset [IBM HR Analytics](https://www.kaggle.com/pavansubhasht/ibm-hr
 This project was built using the following technologies: Python, Pandas, Numpy, Matplotlib, Seaborn  
 
 ![](/images/Stripplot_Distance_JobRole.png)
+
+# [Project 3: US Airlines Bumpings 2016 - 2017](/Project_Airlines_Bumpings.md)
+Using The Air Travel Consumer monthly report, this project provides charts displaying evolution of bumpings for each US airlines. This project aims to present a benchmark accross all airlines companies regarding Denied Boardings. 
+
+This project was built using the following technologies: Python, Pandas, Numpy, Openpyxl  
+
+![](/images/bar_chart_denied_boarding.JPG)
