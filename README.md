@@ -19,4 +19,11 @@ Using The Air Travel Consumer monthly report, this project provides charts displ
 
 This project was built using the following technologies: Python, Pandas, Numpy, Openpyxl  
 
-![](/images/bar_chart_denied_boarding.JPG)
+![](/images/bar_chart_denied_boarding.JPG)  
+
+# [Project 4: Amazon Bestsellers 2009 - 2019](/Project_Amazon_bestsellers.md)
+This project is an Exploratory Data Analysis aiming to identify the common characteristics of best sellings books on Amazon's marketplace.
+
+This project was built using the following technologies: Python, Pandas, Numpy, Plotly, Seaborn 
+
+![](/images/p4_year_review_scatter.png)
