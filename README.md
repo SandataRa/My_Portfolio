@@ -1,10 +1,4 @@
-# The Smiling Data Engineer Portfolio  
-
-Welcome to my data journey,   
-
-I'm a full-stack Data Engineer obsessed with ETL processes and visualizations. You can find here projects I've enjoyed making and challenged myself on. Feel free to comment and share. I'm open to advice for improvement. I'm also open to new opportunities so let's work together! 
-
-***  
+# Finished projects  
 
 ## Comparing World Trends in 1960 and 2013
 Using the dataset provided by [SuperDataScience](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P4-Section5-Homework-Challenge.pdf), this project presents a comparative analysis of the world's **Life Expectancy** and **Birth Rate** per **Countries Regions** in **1960** and **2013**: 
