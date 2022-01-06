@@ -1,4 +1,4 @@
-# [Project 2: EDA on Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+# [Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 Using the dataset IBM HR Analytics, this project in an Exploratory Data Analysis (EDA) showing how to analyze attrition within your company. This project aims to identify the reasons pushing top performer employees to leave the company. By building a visual dashboard, company's decision-makers can assess the situation and answer questions such as:  
   
