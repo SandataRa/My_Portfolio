@@ -1,4 +1,4 @@
-# [Project 4: Amazon bestsellers from 2009 to 2019](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019/tasks?taskId=2741)
+# [Amazon bestsellers from 2009 to 2019](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019/tasks?taskId=2741)
 
 This dataset contains the bestsellers books from 2009 to 2019 on Amazon for a total of 550 rows and 7 columns. This project is an Exploratory Data Analysis aiming
 to identify the common characteristics of best sellings books on Amazon's marketplace. 
