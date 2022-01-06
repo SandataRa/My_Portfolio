@@ -1,8 +1,6 @@
 # The Enthusiastic Portfolio
 Hello and welcome on my portfolio. You can find here projects I’ve enjoyed making and challenged myself on. Please, feel free to leave a comment or reach out to me if you like my work or have any suggestions. I'll be happy to discuss and learn from you.  
 
-Happy Data Visualizing!  
-
 ## Upcoming Projects  
 
 ### Integrating the yearly fiscal calendar *(coming soon)*
@@ -22,7 +20,7 @@ This project was built using the following technologies: Python, Pandas, Seaborn
 
 ![](/images/graphs_1960_2013.png)  
 
-[Read the entire project](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/WorldTrends_Homework.py)
+[Go to the project](https://github.com/SandratraR/20Days_DataScience_2021/blob/master/WorldTrends_Homework.py)
 
 
 
@@ -33,7 +31,7 @@ This project was built using the following technologies: Python, Pandas, Numpy, 
 
 ![](/images/Stripplot_Distance_JobRole.png)
 
-[Read the entire project](/Project_EDA_Employee_Attrition.md)
+[Go to the project](/Project_EDA_Employee_Attrition.md)
 
  
 
@@ -44,7 +42,7 @@ This project was built using the following technologies: Python, Pandas, Numpy, 
 
 ![](/images/bar_chart_denied_boarding.JPG)  
 
-[Read the entire project](/Project_Airlines_Bumpings.md)  
+[Go to the project](/Project_Airlines_Bumpings.md)  
 
 
 
@@ -55,5 +53,5 @@ This project was built using the following technologies: Python, Pandas, Numpy, 
 
 ![](/images/p4_year_review_scatter.png)  
 
-[Read the entire project](/Project_Amazon_bestsellers.md)  
+[Go to the project](/Project_Amazon_bestsellers.md)  
 
