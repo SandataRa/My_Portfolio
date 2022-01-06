@@ -1,4 +1,4 @@
-# [Project 3: US Airlines Bumpings 2016 - 2017](https://www.transportation.gov/sites/dot.gov/files/docs/resources/individuals/aviation-consumer-protection/300341/2017-december-atcr.pdf)
+# [US Airlines Bumpings 2016 - 2017](https://www.transportation.gov/sites/dot.gov/files/docs/resources/individuals/aviation-consumer-protection/300341/2017-december-atcr.pdf)
 
 Using The Air Travel Consumer monthly report, this project provides charts displaying evolution of bumpings *(passengers have to give up their seats because there are more passengers scheduled to fly on an airplane than available seats.)* for each US airlines.  
 
