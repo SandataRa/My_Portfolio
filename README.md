@@ -1,12 +1,6 @@
 # The Enthusiastic Portfolio
 Hello and welcome on my portfolio. You can find here projects I’ve enjoyed making and challenged myself on. Please, feel free to leave a comment or reach out to me if you like my work or have any suggestions. I'll be happy to discuss and learn from you.  
 
-## Upcoming Projects  
-
-### Integrating the yearly fiscal calendar *(coming soon)*
-Using the fiscal calendar provided by your business team, this project presents a solution to automatize the calendar integration inside a database. Whether you want to load your datawarehouse or your datamart, this solution aims to show how to deal with dates and yearly recuring process.
-
-
 ***
 
 ## Finished projects  
