@@ -10,7 +10,7 @@ Using the data provided by the bank's change requests internal web application, 
 Several technologies are used to support the visual solutions. The schema below represents the process and tools required to carry the data from its source to its destination. It also present a snippet of the data architecture used in the company at the time.
 
 
-![Solution architecture](/images/p5_architecture.png)  
+![Solution architecture](/images/p5_architecture.JPG)  
   
 1. *The Quality & Service Department are entering their operational data through a web-based solution.*
 2. *A data ingestion pipeline gathers the raw data from the app's database and load it inside our IBM data lake.*
@@ -32,15 +32,15 @@ To achieve the workflow presented above, here are all the technologies I used to
     
 *The main page displays two Calendar View visuals. At the top we have the number of changes to be deployed in production at a given date. At the bottom we have the number of deliverables deployed in production at a given date.*  
     
-![Detailed list](/images/p5_details.jpg)  
+![Detailed list](/images/p5_details.JPG)  
   
 *By clicking on a cell of the Calendar View, we can have the detailed list of all the changes or deliverables deployed in production that day. It's also possible to export the needed data for further investigation on specific case.*  
   
-![Plot Switch](/images/p5_switch_plot.jpg)
+![Plot Switch](/images/p5_switch_plot.JPG)
   
 *The switch allows the user to transform the Calendar View into a monthly Bar Chart. Thanks to Plotly, we are able to also extract the visual as an image if needed.*
   
-![Second Page](/images/p5_smartdsi_p2.jpg)
+![Second Page](/images/p5_smartdsi_p2.JPG)
   
 *The second tab displays the data per deployment campaigns and provides ratios regarding our ability to respect the objectives defined by the Quality & Service department.*
   
