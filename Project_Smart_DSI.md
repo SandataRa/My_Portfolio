@@ -1,4 +1,4 @@
-# SMART-DSI: Insightful Project Management 
+# Insightful Project Management 
 
 Using the data provided by the bank's change requests internal web application, this project showcases how building interactive visuals can improve our internal project management process. This project aims to replace the current manual ad-hoc extraction used by the Quality & Service department in their report to top management into an actionable interface. By building a visual dashboard, executives can assess the situation and answer questions such as:  
   
