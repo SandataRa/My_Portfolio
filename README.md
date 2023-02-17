@@ -49,8 +49,8 @@ This project was built using the following technologies: Python, Pandas, Numpy, 
 
 [Go to the project](/Project_Amazon_bestsellers.md)  
 
-### 5.(SMART-DSI) Change Management Dashboard
-This project is a proof of concept used when I was working for a french national bank to build better interactive dashboards increasing the company's change management efficiency. 
+### 5.Insightful Project Management
+Using the data provided by the bank's change requests internal web application, this project showcases how building interactive visuals can improve our internal project management process.
 
 This project was built using the following technologies: PHP (v.7), Zend Framework (v.3), D3.JS, Highcharts, Plotly, Postgres
 
