@@ -1,5 +1,5 @@
-# Data Science Portfolio
-Hello and welcome on my portfolio. You can find here projects I’ve enjoyed making and challenged myself on. Please, feel free to leave a comment or reach out to me if you like my work or have any suggestions. I'll be happy to discuss and learn from you.  
+# Data Portfolio
+Hello and welcome on my portfolio. You can find here projects I’ve enjoyed making and challenged myself on as well as professional use cases I delivered. Please, feel free to leave a comment or reach out to me if you like my work or have any suggestions. I'll be happy to discuss and learn from you.  
   
   
   
@@ -48,4 +48,13 @@ This project was built using the following technologies: Python, Pandas, Numpy, 
 ![](/images/p4_year_review_scatter.png)  
 
 [Go to the project](/Project_Amazon_bestsellers.md)  
+
+### 5.(SMART-DSI) Change Management Dashboard
+This project is a proof of concept used when I was working for a french national bank to build better interactive dashboards increasing the company's change management efficiency. 
+
+This project was built using the following technologies: PHP (v.7), Zend Framework (v.3), D3.JS, Highcharts, Plotly, Postgres
+
+![](/images/p5_smartdsi_main.JPG)  
+
+[Go to the project](/Project_Smart_DSI.md)  
 
